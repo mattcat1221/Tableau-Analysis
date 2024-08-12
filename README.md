@@ -27,8 +27,7 @@ The overlap between popular start and end stations suggests common commute route
 
 3. User Demographics:
 Age Distribution: The histogram displays the distribution of ages among Citibike users. Most users are between 25 and 45 years old, with a peak around 30-35 years.
-Gender Distribution:
-The gender distribution is as follows:
+Gender Distribution: The gender distribution is as follows:
 Male: Approximately 65% of users
 Female: Approximately 25% of users
 Unknown: Around 10% (likely customers who did not provide gender information)
